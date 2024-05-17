@@ -1,6 +1,6 @@
 {
   "name": "@bifproject/solc-bif",
-  "version": "0.8.21-3",
+  "version": "0.4.26-1",
   "description": "Solidity compiler for bif",
   "main": "index.js",
   "bin": {
